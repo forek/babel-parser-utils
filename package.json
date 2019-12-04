@@ -3,6 +3,10 @@
   "version": "7.7.4",
   "description": "Babel parser and utils",
   "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forek/babel-parser-utils.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
