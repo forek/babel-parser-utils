@@ -1,0 +1,11 @@
+{
+  "name": "babel-parser-utils",
+  "version": "7.7.4",
+  "description": "Babel parser and utils",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Forek",
+  "license": "ISC"
+}
